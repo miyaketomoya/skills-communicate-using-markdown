@@ -5,3 +5,6 @@
 import os
 print("Hello World")
 ```
+- [x] task1
+- [ ] task2
+- [ ] task3
